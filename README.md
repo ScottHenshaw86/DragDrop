@@ -3,7 +3,7 @@ This started as a challenge to code a drag & drop application from scratch using
 
 ## Demo
 Play online at hrtereadfdfhtr.com
-![Drag & Drop Game Demo](demo/dragDropDemo.gif)
+<kbd><img src="/demo/dragDropGame.gif" /></kbd>
 
 ## Technologies Used
 * HTML
